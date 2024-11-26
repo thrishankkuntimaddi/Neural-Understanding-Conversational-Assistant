@@ -1,2 +1,6 @@
+spacy
+pyttsx3
+speechrecognition
+sqlite3
 pip~=24.2
 setuptools~=75.2.0
